@@ -1,0 +1,51 @@
+Nombre, Prioridad, TareasPrecedentes
+TareaA, 3,
+TareaB, 2, TareaA
+TareaC, 4, TareaB
+TareaD, 1,
+TareaE, 5, TareaD
+TareaF, 3, TareaA
+TareaG, 2, TareaF
+TareaH, 4, TareaG
+TareaI, 1,
+TareaJ, 5, TareaI
+TareaK, 3, TareaA
+TareaL, 2, TareaK
+TareaM, 4, TareaL
+TareaN, 1,
+TareaO, 5, TareaN
+TareaP, 3, TareaA
+TareaQ, 2, TareaP
+TareaR, 4, TareaQ
+TareaS, 1,
+TareaT, 5, TareaS
+TareaU, 3, TareaA
+TareaV, 2, TareaU
+TareaW, 4, TareaV
+TareaX, 1,
+TareaY, 5, TareaX
+TareaZ, 3, TareaA
+TareaAA, 2, TareaZ
+TareaAB, 4, TareaAA
+TareaAC, 1,
+TareaAD, 5, TareaAC
+TareaAE, 3, TareaA
+TareaAF, 2, TareaAE
+TareaAG, 4, TareaAF
+TareaAH, 1,
+TareaAI, 5, TareaAH
+TareaAJ, 3, TareaA
+TareaAK, 2, TareaAJ
+TareaAL, 4, TareaAK
+TareaAM, 1,
+TareaAN, 5, TareaAM
+TareaAO, 3, TareaA
+TareaAP, 2, TareaAO
+TareaAQ, 4, TareaAP
+TareaAR, 1,
+TareaAS, 5, TareaAR
+TareaAT, 3, TareaA
+TareaAU, 2, TareaAT
+TareaAV, 4, TareaAU
+TareaAW, 1,
+TareaAX, 5, TareaAW
